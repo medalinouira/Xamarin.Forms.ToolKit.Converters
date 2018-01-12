@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <title>Xamarin.Forms.ToolKit.Converters</title>
+    <PackageId>Xamarin.Forms.ToolKit.Converters</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Mohamed Ali NOUIRA</Authors>
+    <Owners>Mohamed Ali NOUIRA</Owners>
+    <Description>Converters for Xamarin.Forms.</Description>
+    <Summary>Converters for Xamarin.Forms.</Summary>
+    <Authors>Mohamed Ali NOUIRA</Authors>
+    <Company>Mohamed Ali NOUIRA</Company>
+    <Copyright>Copyright (c) Mohamed Ali NOUIRA. All rights reserved.</Copyright>
+    <PackageLicenseUrl>https://www.github.com/medalinouira/Xamarin.Forms.ToolKit.Converters</PackageLicenseUrl>
+    <PackageProjectUrl>https://www.github.com/medalinouira/Xamarin.Forms.ToolKit.Converters</PackageProjectUrl>
+    <RepositoryUrl>https://www.github.com/medalinouira/Xamarin.Forms.ToolKit.Converters</RepositoryUrl>
+    <PackageIconUrl>https://github.com/medalinouira/Xamarin.Forms.ToolKit.Converters/blob/master/Xamarin.Forms.ToolKit.Converters/ic_xfc.png?raw=true</PackageIconUrl>
+    <Description>Converters for Xamarin.Forms.</Description>
+    <PackageTags>Xamarin Xamarin.Forms ToolKit Converters MVVM Sweet-MIT</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="2.5.0.122203" />
+  </ItemGroup>
+
+</Project>

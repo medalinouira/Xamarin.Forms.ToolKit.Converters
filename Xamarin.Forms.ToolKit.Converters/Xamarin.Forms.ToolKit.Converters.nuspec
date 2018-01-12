@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://www.github.com/medalinouira/Xamarin.Forms.ToolKit.Converters</licenseUrl>
+    <projectUrl>https://www.github.com/medalinouira/Xamarin.Forms.ToolKit.Converters</projectUrl>
+    <iconUrl>https://github.com/medalinouira/Xamarin.Forms.ToolKit.Converters/blob/master/Xamarin.Forms.ToolKit.Converters/ic_xfc.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>SelectedItemConverter.</releaseNotes>
+    <copyright>Copyright (c) Mohamed Ali NOUIRA. All rights reserved.</copyright>
+    <tags>Xamarin Xamarin.Forms ToolKit Converters MVVM Sweet-MIT</tags>
+  </metadata>
+</package>
